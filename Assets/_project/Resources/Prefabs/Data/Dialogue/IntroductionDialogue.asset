@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c66b2051d4638e94f909bd7b41a0aa67, type: 3}
+  m_Name: IntroductionDialogue
+  m_EditorClassIdentifier: 
+  Lines:
+  - Text: PLAYING AUDIO RECORDING
+    Speed: 0
+    Delay: 2
+    Color: {r: 1, g: 0.54901963, b: 0.19607843, a: 1}
+    CanSkip: 0
+  - Text: Message from command center to pilot.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: As you know, all observable stars disappeared centuries ago.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: We have been searching for a new light source ever since.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: A new local group has just recently been discovered.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: We called it, Delta Local Group.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: We assume that there could be a stars inside that local group.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: You are piloting an observation spaceship called the Orbiter.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: Your mission is to explore this local group and find a new star.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: By using astral radar, which can detect light particles.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: Your secondary mission is to document and collect data on anything you
+      found.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: You can access various system from control central panel in front.
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  - Text: More instruction are located in "Guide Manual" Menu
+    Speed: 0
+    Delay: 5
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    CanSkip: 1
+  TextColor: {r: 0, g: 0, b: 0, a: 1}
+  Overwrite_DialogueSpeed: 0.06
+  Overwrite_AutoPlayDelay: 3.5
+  IsAutoPlay: 0
